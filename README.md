@@ -88,16 +88,6 @@ See the [LICENSE](LICENSE) file for details.
 * Computer Science student at NED University
 * [LinkedIn](https://www.linkedin.com/in/muhammadraza2006) | [GitHub](https://github.com/RazaJavaid2004)
 
-```
-
----
-
-## 🎯 Why This Works
-- **Modular sections** (Features, Installation, Future Enhancements, Author) → easy to expand later.  
-- **Professional tone** → recruiter‑friendly.  
-- **Project structure block** → shows clarity in organization.  
-- **Future Enhancements** → signals growth mindset.  
-
 ---
 
 Would you like me to also **draft a polished GitHub README banner (ASCII or Markdown badges)** so your repo looks visually striking at first glance?
